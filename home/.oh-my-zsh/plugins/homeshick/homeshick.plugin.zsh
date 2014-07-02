@@ -1,1 +1,0 @@
-../../../../../homeshick/homeshick.sh
